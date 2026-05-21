@@ -10,4 +10,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Sello Mkhehlane**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm Sello Mkhehlane. I'm a Data Analyst and my passion is turning numbers into useful insights!!!
